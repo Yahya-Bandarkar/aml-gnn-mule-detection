@@ -5,3 +5,6 @@ __pycache__/
 data/raw/
 .env
 .ipynb_checkpoints/
+ml/data/raw/*.csv
+ml/data/processed/*.csv
+ml/data/synthetic/*.csv
